@@ -9,7 +9,7 @@ SELF binary, ceasing control over the platform.
 ## coreboot table
 Named after the project that originally designed it, the coreboot table is
 an extensible data structure providing the information gathered by Usable &
-Extensible Firmware to payloads and operating systems.
+Effective Firmware to payloads and operating systems.
 
 FIXME: describe how to search for the table correctly.
 
